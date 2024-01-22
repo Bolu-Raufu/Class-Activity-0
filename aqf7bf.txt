@@ -1,3 +1,4 @@
 Huibo Yang - aqf7bf
-I don't have much experience in embeded system, but I am familiar with C, Java, Python, Go
-I'm interested in machine learning, specifically cv and nlp.
+I don't have much experience in embedded systems. I have taken a computer architecture course and also have some experience in robots. 
+I am familiar with C, Java, Python, Go
+I'm interested in machine learning, specifically CV and nlp, I hope to develop interesting programs for embedded systems.

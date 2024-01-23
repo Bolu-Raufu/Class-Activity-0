@@ -1,0 +1,6 @@
+Name: Jack Carli
+UVA ID: AAH3BS
+
+Background: I've been working as an engineer in industry for about 6 years mainly focused on the design and development of automated test equipment used in the verification of circuit card assemblies and in the testing of high-power microwave systems. I am familiar with programming Arduino and Sony Spresense microcontrollers. Some of the programming languages I have used in my work experience are C, C++, C#, Python, ATEasy and PLC Ladder Logic. 
+
+Interests: While I worked with a lot of embedded systems and helped to design circuit cards to interface with embedded systems, I do not have a background in the actual programming of embedded systems. I hope with a stronger understanding of embedded systems it will help me in my professional career to begin to develop test equipment of my own and bring more creative solutions to everyday problems at work.

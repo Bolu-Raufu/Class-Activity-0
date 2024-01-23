@@ -1,0 +1,8 @@
+Thomas Johnson, qpq7th
+
+I took Intro to Embedded Systems last semester and am currently in Computer Architecture & Design. The former useed an STM32 
+microcontroller and the STM Cube IDE. My first-year, Intro to Engineering course involved a lot of time with Arduino and its 
+IDE. All of my embedded programming has been in C.
+
+I really enjoyed Intro to Embedded Systems last semester and wanted to continue learning more about the field. I'm especially
+interested to create more sophisticated and interactive embedded systems.

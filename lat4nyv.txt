@@ -1,4 +1,3 @@
 Lance Tecson lat4nyv
 I took: intro to embedded (enjoyed it) and comp arch & OS (I don't remember anything). For my intro to embedded class, I designed a msp to respond to a input's frequency by changing state color of three oscillating LEDs.
 I would like to learn enough (and more than enough) to be able to make sense of what little I learned in OS. I think I enjoy coding micro controllers and this interest could be expanded to OSs but I do not yet know enough about OSs to where I'd be comfortable with them. 
-Lance Tecson, lat4nyv, https://github.com/LanceTecson/Class-Activity-0.git

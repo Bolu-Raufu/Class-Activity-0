@@ -1,0 +1,10 @@
+Zayda Deese (wmg2zk)
+
+I am a third year, majoring in Computer and Electrical Engineering. I have taken Introduction to Embedded Computer Systems, and currently, I am taking Computer Architecture
+and Design. I have experience working with Arduino and STM32. In addition, I have knowledge of the programming
+languages C, Java, and Python.
+
+By taking this class, I want dive deeper into embedded computer systems since it is something I am interested in
+pursuing post-graduation. I want to gain knowledge around the application of embedded systems and be able to
+recognize the presence of the systems. In addition, I want to expand my experience with low-level hardware and coding, which
+I think it is important in understanding the relationship between hardware and software.

@@ -1,0 +1,6 @@
+Maxim Titov (uhg2nv)
+
+Ive taken the following classes about embedded programming and computer architecture: ECE3430 (Intro Embedded), CS2130 (CSO1), CS3230 (CSO2), ECE2330 (DLD), and I'm currently in ECE4435 (Comp Arch). I'm familiar with STM32 microcontrollers through Intro to Embedded. Also, I'm familiar with Arduinos and I've done a personal project with one involving controlling programmable LED lights.
+
+I'm interested in the intersection between computer science and electrical engineering, which is why I'm pursuing a degree in Computer Engineering. Specifically I'm pursuing a career in the embedded, hardware design, or robotics fields. This class excites me as I want to learn more about the ins and outs of embedded systems and I'm excited to play around with the TI microcontrollers. The final project sounds really cool too.
+

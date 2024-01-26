@@ -1,0 +1,7 @@
+Cheng-Yi Cheng, vje8gb
+I have some experience in Linux kernel device driver. I have taken computer architecture.
+And I haveprogramming experience in C, C++, and python, mostly from previous work experience.
+I think my interest could be operating system, as we usually take it for granted but there are so many interesting mechanism lying under the hood.
+I expect to learn more about operating system in this class, especailly rtos(if possible) since it's the os I am not familiar with but is widely used in the industry.
+
+    

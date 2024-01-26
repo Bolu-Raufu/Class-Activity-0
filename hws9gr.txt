@@ -1,0 +1,5 @@
+Hadrian Sneed (hws9gr)
+
+I'm an EE and physics major so most of my experience is coming from Intro to Embedded.
+
+I liked Intro to Embedded for the most part and I like coding in general. I feel that embedded devices are widely applicable to any industry I choose to work in. I plan to work in nuclear energy out of college and these systems are an integral part of any such industry. Looking forward to working in assembly code for the first time.

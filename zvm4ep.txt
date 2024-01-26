@@ -1,0 +1,5 @@
+-Troy Coleman
+-zvm4ep
+-I took an embedded microcontrollers class in my undergrad, where I made a sort-of functioning 2D tracer (essentially a 3D printer mobility but it drew on paper with a pen).
+For that project I used a PIC32 and programmed that in C. Since then I have worked with a few microcontroller RF SoC's like the Si1060 and EFR32 and both of those are programmed in C. I have also done a bunch of programming in Java, Python, and C.
+-I'm interested in getting a more formal understanding of some of the advanced topics with microcontrollers and some theory that I feel like I didn't get in my undergrad course. Getting more experience programming microcontrollers would also be interesting and beneficial for work.

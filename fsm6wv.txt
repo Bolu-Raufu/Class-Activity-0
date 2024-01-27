@@ -1,0 +1,7 @@
+Eric Sheetz fsm6wv
+CPE Major, took intro embedded last semester using 
+an STM32 microcontroller. Currently in CSO2. 
+I am also an MSE Major, I like working out and 
+playing videogames sometimes. After this class I hope 
+to have the capability to independently be able to program 
+embedded devices to accomplish various goals. 

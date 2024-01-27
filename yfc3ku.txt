@@ -1,0 +1,8 @@
+Salvador Adrian yfc3ku
+
+My background: I have taken Intro to Embedded this past fall, CSO1 a year ago, and I am currently in CSO2. For projects I have had the chance to work with stm32 microcontrollers for embedded assignments and assesments. I've mainly used C in my projects for embedded.
+
+What I hope to get out of this class is a deeper understanding of my current embedded knowledge. I am very interested in robotics and I plan on interning
+with Texas Instruments this summer as a robotics intern. I will be working specifically with implementing AI into robotics which is very exciting and I hope
+that my expereince working with microcontrollers in this class will better prepare me for the summer. I hope this class will help me succeed at my internship
+and only further my passion for robotics.

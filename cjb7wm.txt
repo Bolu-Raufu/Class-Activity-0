@@ -1,0 +1,6 @@
+Name: Christian Bliss
+UVA ID: CJB7WM
+
+Background: I have been working with embedded systems mainly in the intro to embedded systems class and my capstone class. During intro to embedded, we worked with the MSP432, and during capstone, we worked on the STM32. Our capstone was a pickleball serving machine, and the embedded systems consisted of an LCD board used for UI, in which the user could select varying levels of speed, spin, angle, and dispensing frequency of the machine. These signals were routed through the GPIO and PWM pins of the STM32 to drive the mechanical components. 
+
+Interests: I am very interested in software and hardware engineering, so I hope to have a firmer understanding of embedded systems by the end of this course. Outside of school/work, I enjoy playing on the club lacrosse team here, as well as playing pickup sports and lawn games with my friends. 

@@ -1,0 +1,5 @@
+Sarah Hemler (seh5pp)
+
+I've done some work with Arduino and Parallax Propeller, but I usually take on the hardware side of any mechatronic projects. I have taken multiple classes on PLCs and worked in an automated manufacturing environment. I have hobby-level experience in how Assembly works from watching video essays on video game architecture from the 90s. Overall, my practical experience is pretty limited.
+
+I want to gain a better understanding of coding through this class. My research focus is wearable robotics, and while I have a strong grasp of the mechanical side of things, I could stand to have a much better understanding of the software side. Coding is very interesting to me, but I didn't have an opportunity to look into it in depth when I was a mechanical engineering undergraduate.

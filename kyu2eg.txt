@@ -1,0 +1,6 @@
+Name: Haoyang Zhang
+ID: kyu2eg
+Course taken: Computer Architecture (CS 6354), AI Hardware (ECE 6501)
+
+Hello, I‘m Haoyang. I don't have extensive experience in embedded systems, while i do have some experience in hardware design. I am familiar with Python, C++, Verilog, and Matlab. I'm enthusiastic about actively exploring various possibilities in my field. My decision to enroll in this course stems from a desire to expand my knowledge base and delve deeper into computer engineering.
+

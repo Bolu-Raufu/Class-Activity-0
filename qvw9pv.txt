@@ -1,0 +1,5 @@
+Shihe Wang - qvw9pv
+I am currently a CS graduate student, my undergrad degree is in electrical and computer engineering, I have taken
+comp arch, OS, some higher level chip design classes as well as logic design. I have also worked on some embedded system projects.
+I am interested in this class cause I have always liked to work on something more physical and not just a webpage existing
+somewhere in the cloud. I also enjoy writing code in C and C++.

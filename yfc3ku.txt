@@ -6,4 +6,3 @@ What I hope to get out of this class is a deeper understanding of my current emb
 with Texas Instruments this summer as a robotics intern. I will be working specifically with implementing AI into robotics which is very exciting and I hope
 that my expereince working with microcontrollers in this class will better prepare me for the summer. I hope this class will help me succeed at my internship
 and only further my passion for robotics.
-

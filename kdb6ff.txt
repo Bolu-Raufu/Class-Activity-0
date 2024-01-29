@@ -1,0 +1,3 @@
+Cornell J. Wilson, kdb6ff
+During my undergraduate program at Tufts University, I took an Operating Systems course as well as a Computer Architecture course. I also had a design course that involved programming an Arduino to control an autonomous line-following robot. However, I graduated back in 2015 so it has been a while. Since then I have mostly worked within Linux operating systems, though I've had a brief foray into VxWorks. I've done a lot of C programming, so I'm quite comfortable there at least.
+I currently work at the NASA Langley Research Center, so my interests are mainly focused on how embedded systems are used in aerospace applications. I'm hoping to gain more experience from this class, so I can apply it to real devices being developed by NASA.

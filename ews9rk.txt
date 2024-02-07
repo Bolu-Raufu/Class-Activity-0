@@ -1,0 +1,8 @@
+Name: Kelly Zhou
+Computing ID: ews9rk
+
+Courses Previously Taken: Introduction to Embedded System (with STM g071RB), Digital Logic Design, CSO1
+Courses Currently Taken: Computer Architecture and Design, CSO2
+
+After taking Intro Embedded course last semester, I found that I really enjoyed learning and working with the micro-controller. There is so much possibilities working with embedded devices. I really enjoy how it is the perfect blend of hardware and software. 
+I'm looking foward to furthering my knowledge in the topic. In addition, Im excited to work with the TI microcontroller and the expansion board. The final project seems fun to work on as well.
